@@ -1,1 +1,19 @@
-{"data":"Ly8g6KGM5YuV54mI6YG45Zau6ZaL6ZecCmNvbnN0IHRvZ2dsZSA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJy5uYXZfX3RvZ2dsZScpOwpjb25zdCBtZW51ID0gZG9jdW1lbnQucXVlcnlTZWxlY3RvcignLm5hdl9fbWVudScpOwoKdG9nZ2xlLmFkZEV2ZW50TGlzdGVuZXIoJ2NsaWNrJywgKCkgPT4gewogIGNvbnN0IG9wZW4gPSBtZW51LmNsYXNzTGlzdC50b2dnbGUoJ29wZW4nKTsKICB0b2dnbGUuc2V0QXR0cmlidXRlKCdhcmlhLWV4cGFuZGVkJywgb3BlbiA/ICd0cnVlJyA6ICdmYWxzZScpOwp9KTsKCi8vIOm7numBuOWWrumgheebruW+jOiHquWLleaUtuWQiO+8iOihjOWLleeJiO+8iQptZW51LnF1ZXJ5U2VsZWN0b3JBbGwoJ2EnKS5mb3JFYWNoKChsaW5rKSA9PiB7CiAgbGluay5hZGRFdmVudExpc3RlbmVyKCdjbGljaycsICgpID0+IHsKICAgIG1lbnUuY2xhc3NMaXN0LnJlbW92ZSgnb3BlbicpOwogICAgdG9nZ2xlLnNldEF0dHJpYnV0ZSgnYXJpYS1leHBhbmRlZCcsICdmYWxzZScpOwogIH0pOwp9KTsKCi8vIOmggeWwvuW5tOS7vQpkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgneWVhcicpLnRleHRDb250ZW50ID0gbmV3IERhdGUoKS5nZXRGdWxsWWVhcigpOwo="}
+// 行動版選單開關
+const toggle = document.querySelector('.nav__toggle');
+const menu = document.querySelector('.nav__menu');
+
+toggle.addEventListener('click', () => {
+  const open = menu.classList.toggle('open');
+  toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+});
+
+// 點選單項目後自動收合（行動版）
+menu.querySelectorAll('a').forEach((link) => {
+  link.addEventListener('click', () => {
+    menu.classList.remove('open');
+    toggle.setAttribute('aria-expanded', 'false');
+  });
+});
+
+// 頁尾年份
+document.getElementById('year').textContent = new Date().getFullYear();

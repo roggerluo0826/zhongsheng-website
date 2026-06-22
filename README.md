@@ -1,1 +1,37 @@
-{"data":"IyDkuK3nm5vlt6XnqIvmnInpmZDlhazlj7gg5a6Y5pa557ay56uZCgrntJTpnZzmhYvntrLnq5nvvIhIVE1MIC8gQ1NTIC8gSlPvvInvvIzlj6/nm7TmjqXpg6jnvbLliLAgVmVyY2Vs77yM5YWN6LK744CB6YCf5bqm5b+r44CBU0VPIOWPi+WWhOOAggoKIyMg5qqU5qGI57WQ5qeLCmBgYAp6aG9uZ3NoZW5nLXdlYnNpdGUvCuKUnOKUgCBpbmRleC5odG1sICAgICAgIyDntrLnq5nkuLvpoIHvvIjmiYDmnInlhaflrrnvvItTRU8g5qiZ57Gk77yL57WQ5qeL5YyW6LOH5paZ77yJCuKUnOKUgCBzdHlsZXMuY3NzICAgICAgIyDmqKPlvI8K4pSc4pSAIHNjcmlwdC5qcyAgICAgICAjIOihjOWLleeJiOmBuOWWruOAgeW5tOS7vQrilJzilIAgcm9ib3RzLnR4dCAgICAgICMg5YWB6Kix5pCc5bCL5byV5pOO5pS26YyECuKUnOKUgCBzaXRlbWFwLnhtbCAgICAgIyDntrLnq5nlnLDlnJbvvIjntaYgR29vZ2xl77yJCuKUlOKUgCBpbWFnZXMvICAgICAgICAgIyDlt6XnqIvlr6bnuL7nhafniYfvvIhpbWFnZTHvvZ5pbWFnZTEy77yJCmBgYAoKIyMg4pqg77iPIOS4iue3muWJjeW/heWhq++8iOebruWJjeaYr+S9lOS9jeaWh+Wtl++8iQroq4vmiorku6XkuIvlr6bpmpvos4fmlpnlkYroqLTmiJHjgIHmiJboh6rooYzlnKggYGluZGV4Lmh0bWxgIOaQnOWwi+WPluS7o++8mgoKMS4gKirpm7voqbEgLyDlgrPnnJ8gLyBFbWFpbCAvIOWcsOWdgCoqIOKAlCDlnKjjgIzoga/ntaHmiJHlgJHjgI3ljYDloYrvvIjmkJzlsIvjgIzoq4vmj5DkvpvjgI3vvInjgIIKMi4gKirntZDmp4vljJbos4fmlpkqKiDigJQgYDxzY3JpcHQgdHlwZT0iYXBwbGljYXRpb24vbGQranNvbiI+YCDlhafnmoQgdGVsZXBob25lIC8gZW1haWwgLyBhZGRyZXNz77yMCiAgIOWhq+WlveW+jCBHb29nbGUg5omN6IO95Zyo5pCc5bCL57WQ5p6c6aGv56S65L2g55qE6Zu76Kmx6IiH5Zyw5ZyW44CCCjMuICoq57ay5Z+fKiog4oCUIOaKiuaJgOaciSBgaHR0cHM6Ly93d3cuZXhhbXBsZS5jb20udHcvYCDmj5vmiJDmraPlvI/ntrLln5/jgIIKCiMjIOmDqOe9suWIsCBWZXJjZWwKMS4g5YiwIGh0dHBzOi8vdmVyY2VsLmNvbSDnlKggR29vZ2xlIOW4s+iZn+eZu+WFpeOAggoyLiDjgIxBZGQgTmV34oCmIOKGkiBQcm9qZWN044CN4oaSIOaKiuaVtOWAiyBgemhvbmdzaGVuZy13ZWJzaXRlYCDos4fmlpnlpL7mi5bpgLLljrvvvIjmiJbpgKMgR2l0SHVi77yJ44CCCjMuIEZyYW1ld29yayDpgbjjgIxPdGhlciAvIOmdnOaFi+OAje+8jOebtOaOpSBEZXBsb3nvvIzlub7np5LlvozlvpfliLAgYHh4eC52ZXJjZWwuYXBwYCDntrLlnYDjgIIKCiMjIOiukyBHb29nbGUg5pCc5bCL5b6X5Yiw77yIMyDmraXvvIkKMS4gKirosrfntrLln58qKu+8iOW7uuitsCAuY29tLnR3IOaIliAuY29t77yM5bm06LK757SEIE5UJDQwMOKAkzgwMO+8ie+8jOWcqCBWZXJjZWwg5bCI5qGICiAgIFNldHRpbmdzIOKGkiBEb21haW5zIOe2geWumuOAggoyLiAqKkdvb2dsZSBTZWFyY2ggQ29uc29sZSoq77yIaHR0cHM6Ly9zZWFyY2guZ29vZ2xlLmNvbS9zZWFyY2gtY29uc29sZe+8iQogICDihpIg5paw5aKe6LOH5rqQIOKGkiDpqZforYnntrLln58g4oaSIOaPkOS6pCBgc2l0ZW1hcC54bWxg44CCCjMuICoqR29vZ2xlIOWVhuWutuaqlOahiCoq77yIR29vZ2xlIEJ1c2luZXNzIFByb2ZpbGXvvInnmbvpjITlhazlj7jlkI3nqLHjgIHpm7voqbHjgIHlnLDlnYDvvIwKICAg6K6T5L2g5Zyo5Zyw5ZyW6IiH5pCc5bCL5pu05a655piT6KKr5om+5Yiw44CCCgrmlLbpjITpgJrluLjpnIDlub7lpKnliLDlhanpgLHjgIIK"}
+# 中盛工程有限公司 官方網站
+
+純靜態網站（HTML / CSS / JS），可直接部署到 Vercel，免費、速度快、SEO 友善。
+
+## 檔案結構
+```
+zhongsheng-website/
+├─ index.html      # 網站主頁（所有內容＋SEO 標籤＋結構化資料）
+├─ styles.css      # 樣式
+├─ script.js       # 行動版選單、年份
+├─ robots.txt      # 允許搜尋引擎收錄
+├─ sitemap.xml     # 網站地圖（給 Google）
+└─ images/         # 工程實績照片（image1～image12）
+```
+
+## ⚠️ 上線前必填（目前是佔位文字）
+請把以下實際資料告訴我、或自行在 `index.html` 搜尋取代：
+
+1. **電話 / 傳真 / Email / 地址** — 在「聯絡我們」區塊（搜尋「請提供」）。
+2. **結構化資料** — `<script type="application/ld+json">` 內的 telephone / email / address，
+   填好後 Google 才能在搜尋結果顯示你的電話與地圖。
+3. **網域** — 把所有 `https://www.example.com.tw/` 換成正式網域。
+
+## 部署到 Vercel
+1. 到 https://vercel.com 用 Google 帳號登入。
+2. 「Add New… → Project」→ 把整個 `zhongsheng-website` 資料夾拖進去（或連 GitHub）。
+3. Framework 選「Other / 靜態」，直接 Deploy，幾秒後得到 `xxx.vercel.app` 網址。
+
+## 讓 Google 搜尋得到（3 步）
+1. **買網域**（建議 .com.tw 或 .com，年費約 NT$400–800），在 Vercel 專案
+   Settings → Domains 綁定。
+2. **Google Search Console**（https://search.google.com/search-console）
+   → 新增資源 → 驗證網域 → 提交 `sitemap.xml`。
+3. **Google 商家檔案**（Google Business Profile）登錄公司名稱、電話、地址，
+   讓你在地圖與搜尋更容易被找到。
+
+收錄通常需幾天到兩週。
