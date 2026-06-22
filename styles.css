@@ -165,7 +165,7 @@ a.contact__row:hover { border-color: var(--blue); }
 .shot figcaption { padding: 14px 16px; font-weight: 600; color: var(--navy); font-size: 15px; text-align: center; }
 
 /* ---------- 公司沿革 ---------- */
-#history .section__head h2 {
+.section__head h2 {
   display: inline-block;
   background: linear-gradient(135deg, #1a5fa8 0%, #4a9fd4 100%);
   color: #fff;
@@ -174,7 +174,6 @@ a.contact__row:hover { border-color: var(--blue); }
   box-shadow: 0 4px 16px rgba(26, 95, 168, 0.3);
   letter-spacing: 6px;
 }
-#history .eyebrow { color: var(--blue); }
 
 .timeline {
   position: relative;
